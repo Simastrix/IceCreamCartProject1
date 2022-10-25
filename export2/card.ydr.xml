@@ -1,0 +1,2220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Drawable>
+  <Name>card</Name>
+  <BoundingSphereCenter x="0.614599" y="-0.24453056" z="1.9385971" />
+  <BoundingSphereRadius value="6.4438033" />
+  <BoundingBoxMin x="-3.4402971" y="-2.9983675" z="-2.2443202" />
+  <BoundingBoxMax x="4.669495" y="2.5093064" z="6.1215143" />
+  <LodDistHigh value="9998" />
+  <LodDistMed value="9998" />
+  <LodDistLow value="9998" />
+  <LodDistVlow value="9998" />
+  <FlagsHigh value="1" />
+  <FlagsMed value="0" />
+  <FlagsLow value="0" />
+  <FlagsVlow value="0" />
+  <Unknown9A value="0" />
+  <ShaderGroup>
+    <Unknown30 value="0" />
+    <TextureDictionary>
+      <Item>
+        <Name>Fabric_001_COLOR</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Fabric_001_COLOR.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Fabric_001_NORM</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Fabric_001_NORM.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wood_020_basecolor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wood_020_basecolor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wood_020_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wood_020_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Cherry_Diff</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="2048" />
+        <Height value="2048" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Cherry_Diff.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Cherry_Bump</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Cherry_Bump.dds</FileName>
+      </Item>
+      <Item>
+        <Name>wafflebase</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>wafflebase.dds</FileName>
+      </Item>
+      <Item>
+        <Name>wafflenormal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>wafflenormal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wall_Siding_004_COLOR_A</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wall_Siding_004_COLOR_A.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wall_Siding_004_NORM</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wall_Siding_004_NORM.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wood_001_COLOR</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wood_001_COLOR.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wood_001_NORM</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wood_001_NORM.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_scratched_008_basecolor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_scratched_008_basecolor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_scratched_008_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_scratched_008_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Watercolor_Paper_001_COLOR</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Watercolor_Paper_001_COLOR.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Watercolor_Paper_001_NORM</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Watercolor_Paper_001_NORM.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wood_Particle_Board_003_basecolor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wood_Particle_Board_003_basecolor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wood_Particle_Board_003_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wood_Particle_Board_003_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wood_Particle_Board_002_basecolor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wood_Particle_Board_002_basecolor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Wood_Particle_Board_002_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Wood_Particle_Board_002_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Chocolate_001_baseColor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Chocolate_001_baseColor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Chocolate_001_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Chocolate_001_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>red</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>red.dds</FileName>
+      </Item>
+      <Item>
+        <Name>rednormal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>rednormal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>orange</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>orange.dds</FileName>
+      </Item>
+      <Item>
+        <Name>orangenormal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>orangenormal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>green</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>green.dds</FileName>
+      </Item>
+      <Item>
+        <Name>greennormal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>greennormal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_scratched_007_basecolor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_scratched_007_basecolor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_scratched_007_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_scratched_007_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>napkin</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>napkin.dds</FileName>
+      </Item>
+      <Item>
+        <Name>napkinnormal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>napkinnormal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Plastic_001_COLOR</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Plastic_001_COLOR.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Plastic_001_ROUGH</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSEDETAIL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Plastic_001_ROUGH.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_Steel_Brushed_001_diffuse</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_Steel_Brushed_001_diffuse.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_Steel_Brushed_001_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_Steel_Brushed_001_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_Rusted_005_COLOR</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_Rusted_005_COLOR.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_Rusted_005_NRM</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_Rusted_005_NRM.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Rubber_Sole_001_basecolor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Rubber_Sole_001_basecolor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Rubber_Sole_001_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Rubber_Sole_001_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_scratched_009_basecolor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_scratched_009_basecolor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_scratched_009_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_scratched_009_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_Galvanized_001_basecolor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_Galvanized_001_basecolor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Metal_Galvanized_001_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Metal_Galvanized_001_normal.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Fabric_Argyle_001_basecolor</Name>
+        <Unk32 value="0" />
+        <Usage>DIFFUSE</Usage>
+        <ExtraFlags value="0" />
+        <Width value="1024" />
+        <Height value="1024" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Fabric_Argyle_001_basecolor.dds</FileName>
+      </Item>
+      <Item>
+        <Name>Fabric_Argyle_001_normal</Name>
+        <Unk32 value="0" />
+        <Usage>NORMAL</Usage>
+        <ExtraFlags value="0" />
+        <Width value="512" />
+        <Height value="512" />
+        <MipLevels value="0" />
+        <Format>D3DFMT_DXT5</Format>
+        <FileName>Fabric_Argyle_001_normal.dds</FileName>
+      </Item>
+    </TextureDictionary>
+    <Shaders>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Fabric_001_COLOR</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Fabric_001_NORM</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Wood_020_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Wood_020_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Cherry_Diff</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Cherry_Bump</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>wafflebase</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>wafflenormal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>wafflebase</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>wafflenormal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>wafflebase</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>wafflenormal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Wall_Siding_004_COLOR_A</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Wall_Siding_004_NORM</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Wood_001_COLOR</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Wood_001_NORM</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Metal_scratched_008_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Metal_scratched_008_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Watercolor_Paper_001_COLOR</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Watercolor_Paper_001_NORM</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Wood_Particle_Board_003_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Wood_Particle_Board_003_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Wood_Particle_Board_002_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Wood_Particle_Board_002_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Chocolate_001_baseColor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Chocolate_001_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>red</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>rednormal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>orange</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>orangenormal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>green</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>greennormal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Metal_scratched_007_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Metal_scratched_007_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>napkin</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>napkinnormal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Plastic_001_COLOR</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Plastic_001_ROUGH</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Metal_Steel_Brushed_001_diffuse</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Metal_Steel_Brushed_001_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Metal_Rusted_005_COLOR</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Metal_Rusted_005_NRM</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Rubber_Sole_001_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Rubber_Sole_001_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Metal_Rusted_005_COLOR</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Metal_Rusted_005_NRM</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Metal_scratched_009_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Metal_scratched_009_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Rubber_Sole_001_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Rubber_Sole_001_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Metal_Galvanized_001_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Metal_Galvanized_001_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Fabric_Argyle_001_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Fabric_Argyle_001_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Metal_Rusted_005_COLOR</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Metal_Rusted_005_NRM</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+      <Item>
+        <Name>normal</Name>
+        <FileName>normal.sps</FileName>
+        <RenderBucket value="0" />
+        <Parameters>
+          <Item name="DiffuseSampler" type="Texture">
+            <Name>Metal_Galvanized_001_basecolor</Name>
+          </Item>
+          <Item name="BumpSampler" type="Texture">
+            <Name>Metal_Galvanized_001_normal</Name>
+          </Item>
+          <Item name="HardAlphaBlend" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="useTessellation" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="wetnessMultiplier" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="bumpiness" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularIntensityMult" type="Vector" x="0.125" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFalloffMult" type="Vector" x="100.0" y="0.0" z="0.0" w="0.0" />
+          <Item name="specularFresnel" type="Vector" x="0.75" y="0.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV1" type="Vector" x="0.0" y="1.0" z="0.0" w="0.0" />
+          <Item name="globalAnimUV0" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+        </Parameters>
+      </Item>
+    </Shaders>
+  </ShaderGroup>
+  <DrawableModelsHigh>
+    <Item>
+      <RenderMask value="255" />
+      <Flags value="0" />
+      <HasSkin value="0" />
+      <BoneIndex value="0" />
+      <Unknown1 value="0" />
+      <Geometries>
+        <Item>
+          <ShaderIndex value="10" />
+          <BoundingBoxMin x="-1.7783151" y="-0.4076969" z="2.853426" />
+          <BoundingBoxMax x="-1.7446672" y="0.4076977" z="4.0765176" />
+          <BoneIDs />
+          <VertexBuffer>
+            <Flags value="0" />
+            <Layout type="GTAV1">
+              <Position />
+              <Normal />
+              <Colour0 />
+              <TexCoord0 />
+              <Tangent />
+            </Layout>
+            <Data>
+              -1.7691289 0.0033505333 3.9807115   -61.32001 -5.3607655e-06 0.0   255 255 255 255   0.26471788 0.27198756   0.0 0.25031704 -0.9681639 1.0   
+              -1.7691289 0.3832359 4.052056   -61.320015 -5.3607714e-06 -3.4786863e-05   255 255 255 255   0.029999997 0.01999998   3.0015022e-07 0.5290852 -0.84856874 1.0   
+              -1.7691289 0.38323572 2.8778877   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.029999997 0.9799999   0.0 0.11465362 -0.9934055 1.0   
+              -1.7691289 -0.008753579 3.988799   -61.320015 -5.3608987e-06 -0.0008152162   255 255 255 255   0.7386209 0.26679522   -8.870752e-06 -0.66725194 -0.744832 1.0   
+              -1.7691289 -0.008087216 3.985449   -61.320015 -5.361129e-06 -0.0022276165   255 255 255 255   0.73820925 0.26894593   -3.218774e-05 -0.88603795 -0.4636126 1.0   
+              -1.7691289 -0.3832349 4.052056   -61.320015 -5.3607714e-06 -3.4787543e-05   255 255 255 255   0.9699999 0.01999998   -4.272484e-07 -0.75311095 -0.6578936 1.0   
+              -1.7691289 -0.008087215 3.9921494   -61.320015 -5.360371e-06 0.002426823   255 255 255 255   0.73820925 0.2646445   2.2959028e-05 -0.5801197 -0.81453115 1.0   
+              -1.7691289 0.0006108306 4.013835   -61.32001 -5.3607655e-06 0.0   255 255 255 255   0.9699999 0.9799999   0.0 -0.09897172 -0.99509025 1.0   
+              -1.7691289 -0.0006098321 4.013835   -61.32001 -5.3607655e-06 0.0   255 255 255 255   0.49999994 0.27241534   0.0 -0.09897171 -0.9950902 1.0   
+              -1.7691289 0.3832359 4.052056   -61.320015 -5.3607714e-06 -3.4786863e-05   255 255 255 255   0.029999997 0.01999998   -5.6146675e-08 -0.09897172 -0.9950902 1.0   
+              -1.7691289 0.0028939925 3.9806206   -61.32001 -5.3607655e-06 0.0   255 255 255 255   0.26499993 0.27204585   0.0 -3.0915508e-05 -0.99999994 1.0   
+              -1.7691289 -0.0033495456 3.9807115   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.73528194 0.27198756   0.0 -0.25031704 -0.9681639 1.0   
+              -1.7691289 -0.0028930048 3.9806206   -61.32001 -5.3607655e-06 0.0   255 255 255 255   0.7349999 0.27204585   0.0 3.0915508e-05 -0.99999994 1.0   
+              -1.7691289 -0.38323507 2.8778877   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.9699999 0.9799999   0.0 -0.11465362 -0.9934055 1.0   
+              -1.7691289 0.0033505333 3.9807115   -61.32001 -5.3607655e-06 0.0   255 255 255 255   0.26471788 0.27198756   0.0 -0.8399029 -0.5427367 -1.0   
+              -1.7691289 0.00619056 3.982609   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.26296312 0.27076924   0.0 -0.8399029 -0.54273677 -1.0   
+              -1.7691289 0.3832359 4.052056   -61.320015 -5.3607714e-06 -3.4786863e-05   255 255 255 255   0.029999997 0.01999998   -4.7647717e-07 -0.8399029 -0.54273677 -1.0   
+              -1.7691289 -0.3832349 4.052056   -61.320015 -5.3607714e-06 -3.4787543e-05   255 255 255 255   0.9699999 0.01999998   -3.001561e-07 -0.5290852 -0.84856874 1.0   
+              -1.7691289 -0.0061895717 3.982609   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.7370367 0.27076924   0.0 0.83990294 -0.54273665 -1.0   
+              -1.7691289 -0.0033495456 3.9807115   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.73528194 0.27198756   0.0 0.8399029 -0.54273665 -1.0   
+              -1.7691289 -0.3832349 4.052056   -61.320015 -5.3607714e-06 -3.4787543e-05   255 255 255 255   0.9699999 0.01999998   4.7648652e-07 0.8399029 -0.54273665 -1.0   
+              -1.7691289 -0.0061895717 3.982609   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.7370367 0.27076924   0.0 -0.9404793 -0.33985105 1.0   
+              -1.7691289 -0.0006098321 4.013835   -61.32001 -5.3607655e-06 0.0   255 255 255 255   0.73528194 0.27198756   0.0 0.0 -0.99999994 1.0   
+              -1.7691289 -0.3832349 4.052056   -61.320015 -5.3607714e-06 -3.4787543e-05   255 255 255 255   0.9699999 0.01999998   0.0 0.0 -1.0 1.0   
+              -1.7691289 0.3832359 4.052056   -61.320015 -5.3607714e-06 -3.4786863e-05   255 255 255 255   0.029999997 0.01999998   0.0 0.0 -1.0 1.0   
+              -1.7691289 0.0028939976 4.011509   -61.320015 -5.3608287e-06 -0.0003841206   255 255 255 255   0.7370367 0.27076924   -4.0776836e-06 -0.6509508 -0.7591199 -1.0   
+              -1.7691289 0.002602347 4.012646   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.73528194 0.27198756   0.0 -0.98873883 0.14965162 -1.0   
+              -1.7691289 0.3832359 4.052056   -61.320015 -5.3607714e-06 -3.4786863e-05   255 255 255 255   0.029999997 0.01999998   -5.663414e-07 -0.99830973 0.05811725 -1.0   
+              -1.7691289 0.008088206 3.9921494   -61.320015 -5.360371e-06 0.0024268231   255 255 255 255   0.26179063 0.2646445   -3.7203827e-05 0.9400516 -0.34103236 1.0   
+              -1.7691289 0.0028939976 4.011509   -61.320015 -5.3608287e-06 -0.0003841206   255 255 255 255   0.7370367 0.27076924   6.1410833e-06 0.9803467 0.1972827 1.0   
+              -1.7691289 0.3832359 4.052056   -61.320015 -5.3607714e-06 -3.4786863e-05   255 255 255 255   0.029999997 0.01999998   5.658489e-07 0.99744153 -0.071487986 1.0   
+              -1.7691289 0.00875457 3.988799   -61.320015 -5.3608987e-06 -0.0008152162   255 255 255 255   0.26137888 0.26679522   8.870752e-06 0.66725194 -0.744832 1.0   
+              -1.7691289 0.008088205 3.985449   -61.320015 -5.361129e-06 -0.0022276165   255 255 255 255   0.26179063 0.26894593   3.2187745e-05 0.88603795 -0.4636126 1.0   
+              -1.7691289 0.006190562 3.9949892   -61.32001 -5.3604117e-06 0.002172753   255 255 255 255   0.26296312 0.2628212   1.7775048e-05 -0.5016522 0.86506945 -1.0   
+              -1.7691289 0.0028939953 3.9969778   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.26499993 0.26154464   0.0 -0.5016522 0.86506945 -1.0   
+              -1.7691289 0.0028939976 4.011509   -61.320015 -5.3608287e-06 -0.0003841206   255 255 255 255   0.9699999 0.01999998   -3.1424477e-06 -0.5016522 0.8650694 -1.0   
+              -1.7691289 4.9376956e-07 3.980045   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.49999994 0.27241534   0.0 5.146677e-13 -1.0 1.0   
+              -1.7691289 0.0017273944 4.013538   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.7349999 0.27204585   0.0 -0.5931703 0.805077 -1.0   
+              -1.7691289 0.0006108306 4.013835   -61.32001 -5.3607655e-06 0.0   255 255 255 255   0.49999994 0.27241534   0.0 -0.53573304 0.84438735 -1.0   
+              -1.7691289 0.00619056 3.982609   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.26296312 0.27076924   0.0 0.9404793 -0.33985105 1.0   
+              -1.7691289 0.008088206 3.9921494   -61.320015 -5.360371e-06 0.0024268231   255 255 255 255   0.26179063 0.2646445   -3.881114e-05 0.9806646 -0.19569585 -1.0   
+              -1.7691289 0.006190562 3.9949892   -61.32001 -5.3604117e-06 0.002172753   255 255 255 255   0.26296312 0.2628212   -3.47479e-05 0.9806647 -0.19569583 -1.0   
+              -1.7691289 0.0028939976 4.011509   -61.320015 -5.3608287e-06 -0.0003841206   255 255 255 255   0.7370367 0.2628212   6.1430756e-06 0.9806646 -0.19569585 -1.0   
+              -1.7691289 -0.0028929997 4.011509   -61.320015 -5.3608287e-06 -0.0003841206   255 255 255 255   1.0 1.0   3.543733e-07 0.05657125 -0.99839866 -1.0   
+              -1.7691289 -0.002893002 3.9969778   -61.320015 -5.360766e-06 0.0   255 255 255 255   0.7349999 0.26154464   0.0 -0.52126545 -0.8533947 -1.0   
+              -1.7691289 -0.0061895694 3.9949892   -61.32001 -5.3604117e-06 0.002172753   255 255 255 255   0.7370367 0.2628212   2.744542e-05 -0.774572 -0.63248575 -1.0   
+              -1.7691289 -0.008087215 3.9921494   -61.320015 -5.360371e-06 0.002426823   255 255 255 255   0.73820925 0.2646445   -4.387394e-07 0.011085885 -0.9999386 -1.0   
+              -1.7691289 -0.3832349 4.052056   -61.320015 -5.3607714e-06 -3.4787543e-05   255 255 255 255   0.9699999 0.01999998   9.9242484e-08 0.17493476 -0.9845801 -1.0   
+              -1.7691289 -0.0026013486 4.012646   -61.320015 -5.360766e-06 0.0   255 255 255 255   1.0 1.0   0.0 -0.10594502 0.99437207 1.0   
+              -1.7691289 -0.0028929997 4.011509   -61.320015 -5.3608287e-06 -0.0003841206   255 255 255 255   1.0 -0.0   -6.636604e-07 -0.10594501 0.994372 1.0   
+              -1.7691289 -0.3832349 4.052056   -61.320015 -5.3607714e-06 -3.4787543e-05   255 255 255 255   0.9699999 0.01999998   -6.010382e-08 -0.10594501 0.99437207 1.0   
+              -1.7691289 -0.001726396 4.013538   -61.320015 -5.360766e-06 0.0   255 255 255 255   1.0 1.0   0.0 -0.10293483 0.9946881 1.0   
+              -1.7691289 -0.0026013486 4.012646   -61.320015 -5.360766e-06 0.0   255 255 255 255   1.0 -0.0   0.0 -0.10293484 0.9946881 1.0   
+              -1.7691289 -0.3832349 4.052056   -61.320015 -5.3607714e-06 -3.4787543e-05   255 255 255 255   0.9699999 0.01999998   -5.83961e-08 -0.10293483 0.99468803 1.0   
+              -1.7691289 -0.0006098321 4.013835   -61.32001 -5.3607655e-06 0.0   255 255 255 255   1.0 1.0   0.0 -0.10042985 0.9949441 1.0   
+              -1.7691289 -0.001726396 4.013538   -61.320015 -5.360766e-06 0.0   255 255 255 255   1.0 -0.0   0.0 -0.100429855 0.99494416 1.0   
+              -1.7691289 -0.3832349 4.052056   -61.320015 -5.3607714e-06 -3.4787543e-05   255 255 255 255   0.9699999 0.01999998   -5.6975008e-08 -0.10042986 0.99494416 1.0   
+              -1.7446672 0.0033505354 3.9807115   61.320015 5.360766e-06 0.0   255 255 255 255   0.75016797 0.27001172   0.0 -0.2386237 0.9711121 1.0   
+              -1.7446672 0.0030786856 3.9806573   61.32001 5.3607655e-06 0.0   255 255 255 255   0.75 0.27004677   0.0 -0.00017461927 1.0 1.0   
+              -1.7446672 0.4076975 2.853426   61.320015 5.360766e-06 0.0   255 255 255 255   1.0 1.0   0.0 -0.11262199 0.9936379 1.0   
+              -1.7446672 -0.00079452054 4.0186157   61.320015 4.7379153e-06 0.00014162247   255 255 255 255   0.75 0.27004677   -2.392439e-07 -0.10796078 -0.99415517 -1.0   
+              -1.7446672 0.000795525 4.0186157   61.32001 5.360182e-06 -0.0035802247   255 255 255 255   0.5 0.27044326   4.982241e-06 -0.085332945 -0.9963525 -1.0   
+              -1.7446672 -0.4076967 4.0765176   61.320015 5.3607655e-06 -2.7529504e-06   255 255 255 255   0.0 -0.0   3.1291737e-08 -0.6970012 0.7170699 -1.0   
+              -1.7446672 -0.0019110845 4.018318   61.320015 5.361567e-06 0.0049188584   255 255 255 255   0.75016797 0.27001172   -3.7087306e-05 -0.4623419 -0.88670176 -1.0   
+              -1.7446672 -0.002786037 4.017427   61.320015 5.3626536e-06 0.011586188   255 255 255 255   1.0 -0.0   -2.7284896e-05 -0.14440557 0.9895186 -1.0   
+              -1.7446672 4.9590807e-07 3.980045   61.320015 5.360766e-06 0.0   255 255 255 255   0.5 0.27044326   0.0 -2.0586378e-12 1.0 1.0   
+              -1.7446672 -0.4076969 2.853426   61.320015 5.360766e-06 0.0   255 255 255 255   0.0 1.0   0.0 0.11262199 0.9936379 1.0   
+              -1.7446672 -0.0030776937 3.9806573   61.32001 5.3607655e-06 0.0   255 255 255 255   0.25 0.27004677   0.0 0.00017461927 1.0 1.0   
+              -1.7446672 0.000795525 4.0186157   61.32001 5.360182e-06 -0.0035802247   255 255 255 255   0.5 0.27044326   0.0 0.0 1.0 1.0   
+              -1.7446672 0.4076977 4.0765176   61.320015 5.360771e-06 3.0173838e-05   255 255 255 255   1.0 -0.0   0.0 0.0 1.0 1.0   
+              -1.7446672 -0.4076967 4.0765176   61.320015 5.3607655e-06 -2.7529504e-06   255 255 255 255   0.0 -0.0   0.0 0.0 1.0 1.0   
+              -1.7446672 -0.008087212 3.9921494   61.320015 5.3603494e-06 -0.0025559552   255 255 255 255   0.24690479 0.26260507   -2.1762784e-05 0.5221117 0.8528771 1.0   
+              -1.7446672 -0.003077688 4.016289   61.320015 5.360766e-06 0.0   255 255 255 255   0.75 0.24436343   0.0 0.48716524 0.8733098 1.0   
+              -1.7446672 -0.4076967 4.0765176   61.320015 5.3607655e-06 -2.7529504e-06   255 255 255 255   0.0 -0.0   -2.4935536e-08 0.55542135 0.83156914 1.0   
+              -1.7446672 -0.008087212 3.9921494   61.320015 5.3603494e-06 -0.0025559552   255 255 255 255   0.24690479 0.26260507   -3.419002e-05 0.820254 0.57199925 1.0   
+              -1.7446672 -0.0061895675 3.9949892   61.320015 5.360766e-06 0.0   255 255 255 255   0.24807727 0.26076597   0.0 0.8202541 0.57199925 1.0   
+              -1.7446672 -0.003077688 4.016289   61.320015 5.360766e-06 0.0   255 255 255 255   0.0 -0.0   0.0 0.82025415 0.5719993 1.0   
+              -1.7446672 -0.0061895694 3.982609   61.320015 5.360766e-06 0.0   255 255 255 255   0.24807727 0.26878285   0.0 0.93272805 0.36058065 1.0   
+              -1.7446672 -0.008087214 3.985449   61.320015 5.3610966e-06 0.0020279547   255 255 255 255   0.24690479 0.2669438   2.8995322e-05 0.87674224 0.48096058 1.0   
+              -1.7446672 0.4076977 4.0765176   61.320015 5.360771e-06 3.0173838e-05   255 255 255 255   1.0 -0.0   -2.4681947e-07 -0.5015926 0.86510396 1.0   
+              -1.7446672 -0.0033495435 3.9807115   61.320015 5.360766e-06 0.0   255 255 255 255   0.24983203 0.27001172   0.0 0.2386237 0.9711121 1.0   
+              -1.7446672 -0.4076967 4.0765176   61.320015 5.3607655e-06 -2.7529504e-06   255 255 255 255   0.0 -0.0   -2.2518904e-08 0.5015926 0.86510396 1.0   
+              -1.7446672 0.0019120887 4.018318   61.320015 5.361567e-06 0.0049188584   255 255 255 255   0.7519227 0.26878285   1.7913871e-05 0.22331987 -0.9747452 -1.0   
+              -1.7446672 0.002787041 4.017427   61.320015 5.3626536e-06 0.011586188   255 255 255 255   0.75016797 0.27001172   4.219546e-05 0.22331987 -0.9747453 -1.0   
+              -1.7446672 0.4076977 4.0765176   61.320015 5.360771e-06 3.0173838e-05   255 255 255 255   1.0 -0.0   1.0988936e-07 0.22331987 -0.97474515 -1.0   
+              -1.7446672 0.000795525 4.0186157   61.32001 5.360182e-06 -0.0035802247   255 255 255 255   0.75309515 0.2669438   -1.5156271e-06 0.025958786 0.999663 1.0   
+              -1.7446672 0.0019120887 4.018318   61.320015 5.361567e-06 0.0049188584   255 255 255 255   0.7519227 0.26878285   2.0823152e-06 0.025958788 0.99966305 1.0   
+              -1.7446672 0.4076977 4.0765176   61.320015 5.360771e-06 3.0173838e-05   255 255 255 255   1.0 -0.0   1.277358e-08 0.025958784 0.999663 1.0   
+              -1.7446672 0.006190564 3.9949892   61.320015 5.360766e-06 0.0   255 255 255 255   0.7519227 0.26076597   0.0 -0.8597083 0.5107853 -1.0   
+              -1.7446672 0.0030786914 4.016289   61.320015 5.360766e-06 0.0   255 255 255 255   0.75309515 0.2669438   0.0 -0.8597083 0.5107853 -1.0   
+              -1.7446672 0.0030786884 3.9969409   61.32001 5.3607655e-06 0.0   255 255 255 255   0.75 0.2595021   0.0 -0.8597083 0.5107853 -1.0   
+              -1.7446672 0.006190564 3.9949892   61.320015 5.360766e-06 0.0   255 255 255 255   0.7519227 0.26076597   0.0 -0.8202541 0.57199925 1.0   
+              -1.7446672 0.008088209 3.9921494   61.320015 5.3603494e-06 -0.0025559552   255 255 255 255   0.75309515 0.26260507   3.419002e-05 -0.820254 0.57199925 1.0   
+              -1.7446672 0.0030786914 4.016289   61.320015 5.360766e-06 0.0   255 255 255 255   1.0 -0.0   0.0 -0.82025415 0.5719993 1.0   
+              -1.7446672 -0.0033495435 3.9807115   61.320015 5.360766e-06 0.0   255 255 255 255   0.24983203 0.27001172   0.0 -0.8253803 0.56457716 -1.0   
+              -1.7446672 -0.0061895694 3.982609   61.320015 5.360766e-06 0.0   255 255 255 255   0.24807727 0.26878285   0.0 -0.8253803 0.5645771 -1.0   
+              -1.7446672 -0.4076967 4.0765176   61.320015 5.3607655e-06 -2.7529504e-06   255 255 255 255   0.0 -0.0   3.705529e-08 -0.8253803 0.5645771 -1.0   
+              -1.7446672 -0.003077688 4.016289   61.320015 5.360766e-06 0.0   255 255 255 255   0.7519227 0.26076597   0.0 -0.102429524 0.99474025 1.0   
+              -1.7446672 -0.002786037 4.017427   61.320015 5.3626536e-06 0.011586188   255 255 255 255   0.75 0.24436343   -1.9353678e-05 -0.10242953 0.99474037 1.0   
+              -1.7446672 -0.4076967 4.0765176   61.320015 5.3607655e-06 -2.7529504e-06   255 255 255 255   0.0 -0.0   4.598554e-09 -0.10242954 0.99474025 1.0   
+              -1.7446672 -0.0061895675 3.9949892   61.320015 5.360766e-06 0.0   255 255 255 255   0.24807727 0.26076597   0.0 -0.10746076 -0.9942093 -1.0   
+              -1.7446672 -0.003077691 3.9969409   61.32001 5.3607655e-06 0.0   255 255 255 255   0.25 0.2595021   0.0 -0.107460774 -0.99420935 -1.0   
+              -1.7446672 -0.003077688 4.016289   61.320015 5.360766e-06 0.0   255 255 255 255   0.75 0.24436343   0.0 -0.10746077 -0.99420935 -1.0   
+              -1.7446672 -0.008753577 3.988799   61.320015 5.3609274e-06 0.000992176   255 255 255 255   0.24649307 0.26477444   1.0455471e-05 0.6461853 0.76318055 1.0   
+              -1.7737489 0.4076977 4.0765176   -7.7999024 60.821922 -2.2382783e-06   255 255 255 255   0.0 -0.0   0.9177408 0.37934187 -0.11769253 1.0   
+              -1.7446672 0.4076975 2.853426   -5.360766e-06 61.320015 -9.990299e-06   255 255 255 255   0.0 1.0   1.0 0.0 0.0 -1.0   
+              -1.7737489 0.4076975 2.853426   -7.8132386 60.82021 -1.8075416e-05   255 255 255 255   0.0 1.0   0.91766846 -0.3794563 -0.1178878 1.0   
+              -1.775982 0.40711424 2.8540092   -30.392193 53.258415 -9.7994925e-05   255 255 255 255   0.0018666661 0.99875546   0.84518147 -0.23032098 -0.4823075 1.0   
+              -1.775982 0.40711445 4.0759344   -30.393305 53.257782 -0.00017155086   255 255 255 255   0.0018666661 0.0012444258   0.8449375 0.2314579 -0.48219064 1.0   
+              -1.7777318 0.40536436 2.8557591   -56.86541 16.225859 -16.223146   255 255 255 255   0.0037333323 0.997511   0.29588947 0.08561514 -0.95137763 1.0   
+              -1.7777318 0.40536457 4.0741844   -56.84638 16.256804 16.258823   255 255 255 255   0.0037333323 0.0024889112   0.29646513 -0.08544745 -0.95121354 1.0   
+              -1.7783151 0.4031313 2.8579924   -61.068913 3.9195104 -3.9203258   255 255 255 255   0.005599999 0.9962666   0.07092578 0.11411951 -0.99093205 1.0   
+              -1.7783151 0.4031315 4.0719514   -61.068977 3.9193974 3.9194918   255 255 255 255   0.005599999 0.003733337   0.07094633 -0.11454443 -0.9908815 1.0   
+              -1.7737489 -0.4076967 4.0765176   -7.804894 -60.821278 1.793282e-05   255 255 255 255   1.0 -0.0   -0.9176962 -0.37942773 -0.11776356 1.0   
+              -1.7446672 -0.4076969 2.853426   5.360766e-06 -61.320015 9.990299e-06   255 255 255 255   1.0 1.0   1.0 0.0 0.0 -1.0   
+              -1.7446672 -0.4076967 4.0765176   5.360766e-06 -61.320015 9.990299e-06   255 255 255 255   1.0 -0.0   1.0 0.0 0.0 -1.0   
+              -1.7783151 -0.4031305 4.0719514   -61.06892 -3.9232008 3.9165955   255 255 255 255   0.9943999 0.003733337   -0.070976995 0.1140971 -0.9909309 1.0   
+              -1.7777318 -0.40536377 2.8557591   -56.8468 -16.257463 -16.256712   255 255 255 255   0.9962666 0.997511   -0.2964794 -0.08548577 -0.95120573 1.0   
+              -1.7777318 -0.40536356 4.0741844   -56.864956 -16.225515 16.225094   255 255 255 255   0.9962666 0.0024889112   -0.295878 0.08556961 -0.9513853 1.0   
+              -1.775982 -0.40711364 2.8540092   -30.393267 -53.25781 -9.069237e-05   255 255 255 255   0.9981333 0.99875546   -0.844938 0.23145472 -0.48219126 1.0   
+              -1.775982 -0.40711343 4.0759344   -30.392609 -53.25818 -0.00015922276   255 255 255 255   0.9981333 0.0012444258   -0.84517735 -0.23032463 -0.48231295 1.0   
+              -1.7737489 -0.4076969 2.853426   -7.8048983 -60.821278 1.8635164e-06   255 255 255 255   1.0 1.0   -0.9177185 0.37937284 -0.1177665 1.0   
+              -1.7783151 0.3878019 2.8733215   -61.071976 -3.896098 3.8960156   255 255 255 255   0.024399996 0.9837332   -0.06587217 0.03535762 -0.9972014 1.0   
+              -1.7783151 0.3878021 4.056622   -61.071938 -3.8964431 -3.8962684   255 255 255 255   0.024399996 0.016266644   -0.06587256 -0.03526961 -0.99720454 1.0   
+              -1.7737489 0.3832359 4.052056   -7.8185625 -60.819527 9.965868e-06   255 255 255 255   0.029999997 0.01999998   -0.9176735 0.37941834 -0.11797019 1.0   
+              -1.7691289 0.38323572 2.8778877   5.360766e-06 -61.320015 9.990299e-06   255 255 255 255   0.029999997 0.9799999   1.0 0.0 0.0 -1.0   
+              -1.7691289 0.3832359 4.052056   5.360766e-06 -61.320015 9.990299e-06   255 255 255 255   0.029999997 0.01999998   1.0 0.0 0.0 -1.0   
+              -1.775982 0.38381916 4.052639   -30.6235 -53.125755 8.666579e-05   255 255 255 255   0.028133329 0.018755555   -0.86304957 0.087451585 -0.49749127 1.0   
+              -1.7737489 0.38323572 2.8778877   -7.818368 -60.819546 9.908762e-06   255 255 255 255   0.029999997 0.9799999   -0.91828674 -0.37790826 -0.11804608 1.0   
+              -1.7777318 0.38556886 2.8755546   -56.948257 -16.079636 16.077488   255 255 255 255   0.026266664 0.98248875   -0.29550174 0.096074365 -0.950499 1.0   
+              -1.775982 0.38381898 2.8773043   -30.49096 -53.20193 -0.00010612082   255 255 255 255   0.028133329 0.9812443   -0.8643051 -0.0872168 -0.49534833 1.0   
+              -1.7777318 0.38556904 4.054389   -56.88566 -16.188292 -16.18966   255 255 255 255   0.026266664 0.01751113   -0.297565 -0.095747925 -0.949888 1.0   
+              -1.7783151 -0.38780108 4.056622   -61.071983 3.8713756 -3.9203897   255 255 255 255   0.9755999 0.016266644   0.06548534 0.035373162 -0.9972263 1.0   
+              -1.7783151 -0.4031307 2.8579924   -60.41986 -5.85856 -8.675376   255 255 255 255   0.9943999 0.9962666   -0.111503355 -0.10956157 -0.9877061 1.0   
+              -1.7691289 -0.3832349 4.052056   -5.360766e-06 61.320015 -9.990299e-06   255 255 255 255   0.9699999 0.01999998   1.0 0.0 0.0 -1.0   
+              -1.7737489 -0.38323507 2.8778877   -7.8187695 60.819492 -1.0022971e-05   255 255 255 255   0.9699999 0.9799999   0.9176622 0.37944534 -0.117971785 1.0   
+              -1.7737489 -0.3832349 4.052056   -7.8181834 60.819572 -9.9087665e-06   255 255 255 255   0.9699999 0.01999998   0.91829795 -0.37788132 -0.11804453 1.0   
+              -1.775982 -0.38381833 2.8773043   -30.57323 53.15469 -0.000119222466   255 255 255 255   0.9718666 0.9812443   0.86353827 0.08720952 -0.49668506 1.0   
+              -1.775982 -0.38381815 4.052639   -30.574102 53.154198 7.300555e-05   255 255 255 255   0.9718666 0.018755555   0.86350876 -0.08749138 -0.49668685 1.0   
+              -1.7777318 -0.3855682 2.8755546   -56.921707 16.125265 16.125713   255 255 255 255   0.9737332 0.98248875   0.29642865 -0.096181996 -0.95019954 1.0   
+              -1.7777318 -0.38556802 4.054389   -56.92266 16.124418 -16.123198   255 255 255 255   0.9737332 0.01751113   0.2963163 0.09579338 -0.95027375 1.0   
+              -1.7783151 -0.3878013 2.8733215   -61.28355 1.9838525 -0.7318814   255 255 255 255   0.9755999 0.9837332   0.031877693 -0.03803284 -0.9987679 1.0   
+              -1.7737489 -0.3832349 4.052056   -7.817789 -1.0692169e-05 -60.81963   255 255 255 255   0.9699999 0.01999998   -2.0778773e-10 1.6165149e-09 -1.0 1.0   
+              -1.7691289 0.3832359 4.052056   8.733797e-13 -9.990299e-06 -61.320015   255 255 255 255   0.029999997 0.01999998   1.0 0.0 0.0 -1.0   
+              -1.7691289 -0.3832349 4.052056   8.733797e-13 -9.990299e-06 -61.320015   255 255 255 255   0.9699999 0.01999998   1.0 0.0 0.0 -1.0   
+              -1.7737489 0.3832359 4.052056   -7.8190136 -1.059231e-05 -60.81947   255 255 255 255   0.029999997 0.01999998   0.0 0.0 -1.0 1.0   
+              -1.775982 -0.38381815 4.052639   -30.577072 -0.000106932755 -53.15248   255 255 255 255   0.9718666 0.018755555   -7.7740845e-07 1.3513779e-06 -0.99999994 1.0   
+              -1.775982 0.38381916 4.052639   -30.574532 9.854438e-05 -53.153946   255 255 255 255   0.028133329 0.018755555   8.934345e-07 -1.5532397e-06 -0.99999994 1.0   
+              -1.7737489 0.4076977 4.0765176   -7.8051376 1.727902e-05 60.821247   255 255 255 255   0.0 -0.0   1.671466e-08 1.3024838e-07 -1.0 1.0   
+              -1.7446672 -0.4076967 4.0765176   -8.733797e-13 9.990299e-06 61.320015   255 255 255 255   0.0 -0.0   1.0 0.0 0.0 -1.0   
+              -1.7446672 0.4076977 4.0765176   -8.733797e-13 9.990299e-06 61.320015   255 255 255 255   0.0 1.0   1.0 0.0 0.0 -1.0   
+              -1.7737489 -0.4076967 4.0765176   -7.804791 1.1810425e-06 60.821297   255 255 255 255   1.0 -0.0   -1.6700135e-08 -1.3014106e-07 -1.0 1.0   
+              -1.775982 0.40711445 4.0759344   -30.332586 -0.00021783548 53.292385   255 255 255 255   0.0018666661 0.0012444258   -1.8058987e-06 -3.1728466e-06 -1.0 1.0   
+              -1.775982 -0.40711343 4.0759344   -30.49136 0.00023180989 53.201702   255 255 255 255   0.9981333 0.0012444258   1.8310969e-06 3.194921e-06 -1.0 1.0   
+              -1.7737489 0.38323572 2.8778877   -7.817789 9.325263e-06 60.81963   255 255 255 255   0.029999997 0.9799999   2.0778773e-10 1.6165149e-09 -1.0 1.0   
+              -1.7691289 -0.38323507 2.8778877   -8.733797e-13 9.990299e-06 61.320015   255 255 255 255   0.9699999 0.9799999   1.0 0.0 0.0 -1.0   
+              -1.7691289 0.38323572 2.8778877   -8.733797e-13 9.990299e-06 61.320015   255 255 255 255   0.029999997 0.9799999   1.0 0.0 0.0 -1.0   
+              -1.7737489 -0.4076969 2.853426   -7.8051376 -1.8643716e-05 -60.821247   255 255 255 255   1.0 1.0   0.99186623 0.12728533 1.685173e-08 1.0   
+              -1.7446672 0.4076975 2.853426   8.733797e-13 -9.990299e-06 -61.320015   255 255 255 255   0.0 -0.0   1.0 0.0 0.0 1.0   
+              -1.7446672 -0.4076969 2.853426   8.733797e-13 -9.990299e-06 -61.320015   255 255 255 255   0.0 1.0   1.0 0.0 0.0 1.0   
+              -1.775982 -0.40711364 2.8540092   -30.336815 0.00010516761 -53.289974   255 255 255 255   0.9981333 0.99875546   9.399354e-07 -1.6511007e-06 -1.0 1.0   
+              -1.7737489 -0.38323507 2.8778877   -7.8190136 9.22519e-06 60.81947   255 255 255 255   0.9699999 0.9799999   0.0 0.0 -1.0 1.0   
+              -1.775982 0.38381898 2.8773043   -30.57483 0.00010330016 53.153774   255 255 255 255   0.028133329 0.9812443   7.912824e-07 1.3756298e-06 -1.0 1.0   
+              -1.775982 -0.38381833 2.8773043   -30.572285 -0.00010571728 53.155243   255 255 255 255   0.9718666 0.9812443   -9.082275e-07 -1.5791118e-06 -1.0 1.0   
+              -1.7737489 0.4076975 2.853426   -7.804791 -2.5456757e-06 -60.821297   255 255 255 255   0.0 1.0   1.6700135e-08 -1.3014106e-07 -1.0 1.0   
+              -1.775982 0.40711424 2.8540092   -30.49571 -0.00012452275 -53.199215   255 255 255 255   0.0018666661 0.99875546   -9.1799495e-07 1.6014255e-06 -1.0 1.0   
+              -1.7446672 0.006190562 3.982609   61.320015 5.360766e-06 0.0   255 255 255 255   0.7519227 0.26878285   0.0 0.82538027 0.56457716 -1.0   
+              -1.7446672 0.0033505354 3.9807115   61.320015 5.360766e-06 0.0   255 255 255 255   0.75016797 0.27001172   0.0 0.82538027 0.56457716 -1.0   
+              -1.7446672 0.4076977 4.0765176   61.320015 5.360771e-06 3.0173838e-05   255 255 255 255   1.0 -0.0   4.0614617e-07 0.8253802 0.56457716 -1.0   
+              -1.7446672 0.008088207 3.985449   61.320015 5.3610966e-06 0.0020279547   255 255 255 255   0.75309515 0.2669438   -2.8995322e-05 -0.87674224 0.48096058 1.0   
+              -1.7446672 0.006190562 3.982609   61.320015 5.360766e-06 0.0   255 255 255 255   0.7519227 0.26878285   0.0 -0.93272805 0.36058065 1.0   
+              -1.7446672 0.4076977 4.0765176   61.320015 5.360771e-06 3.0173838e-05   255 255 255 255   1.0 -0.0   -3.5962952e-07 -0.73084795 0.6825404 1.0   
+              -1.7446672 0.008754572 3.988799   61.320015 5.3609274e-06 0.000992176   255 255 255 255   0.7535069 0.26477444   -1.0455472e-05 -0.6461854 0.76318055 1.0   
+              -1.7446672 0.008088209 3.9921494   61.320015 5.3603494e-06 -0.0025559552   255 255 255 255   0.75309515 0.26260507   2.317031e-05 -0.5558798 0.83126277 1.0   
+              -1.7446672 0.0030786914 4.016289   61.320015 5.360766e-06 0.0   255 255 255 255   1.0 1.0   0.0 0.2275525 0.97376585 -1.0   
+              -1.7446672 0.008088209 3.9921494   61.320015 5.3603494e-06 -0.0025559552   255 255 255 255   0.75309515 0.26260507   -9.484897e-06 0.22755252 0.97376585 -1.0   
+              -1.7446672 0.4076977 4.0765176   61.320015 5.360771e-06 3.0173838e-05   255 255 255 255   1.0 -0.0   1.1197213e-07 0.22755252 0.9737658 -1.0   
+              -1.7446672 0.002787041 4.017427   61.320015 5.3626536e-06 0.011586188   255 255 255 255   1.0 1.0   1.0 0.0 0.0 -1.0   
+              -1.7446672 0.0030786914 4.016289   61.320015 5.360766e-06 0.0   255 255 255 255   1.0 -0.0   1.0 0.0 0.0 -1.0   
+              -1.7446672 0.4076977 4.0765176   61.320015 5.360771e-06 3.0173838e-05   255 255 255 255   1.0 -0.0   1.0 0.0 0.0 -1.0   
+              -1.7446672 -0.0030776937 3.9806573   -0.00010585059 11.936655 60.146984   255 255 255 255   0.44257176 0.27219677   5.4564364e-10 -0.19466151 0.9808705 -1.0   
+              -1.7446672 4.9590807e-07 3.980045   -0.00019597776 9.990282e-06 61.320015   255 255 255 255   0.5 0.27219677   -1.8093805e-14 0.0 1.0 -1.0   
+              -1.7691289 -0.0028930048 3.9806206   -0.00011336329 11.961422 60.142067   255 255 255 255   0.44601744 0.77219677   7.983054e-11 -0.19506541 0.98079026 -1.0   
+              -1.7446672 0.0030786856 3.9806573   -0.00010376352 -11.936636 60.14699   255 255 255 255   0.55742824 0.27219677   -5.4564364e-10 0.19466151 0.9808705 -1.0   
+              -1.7446672 0.0033505354 3.9807115   2.0487378e-06 -23.43483 56.66527   255 255 255 255   0.5625 0.27219677   0.0 0.3821727 0.9240909 -1.0   
+              -1.7691289 0.0033505333 3.9807115   -0.00010359175 -23.47274 56.64958   255 255 255 255   0.5625 0.77219677   1.8361603e-10 0.38279095 0.9238349 -1.0   
+              -1.7446672 0.0030786884 3.9969409   0.46296304 -61.318264 9.9900135e-06   255 255 255 255   0.0 1.0   0.0 1.0 0.0 1.0   
+              -1.7691289 0.0028939976 4.011509   1.9571525 -60.807423 -7.6662283   255 255 255 255   0.86200184 -0.0   -0.00048397153 0.99214804 -0.12506856 1.0   
+              -1.7691289 0.0028939953 3.9969778   0.46295816 -61.318268 9.990014e-06   255 255 255 255   0.0 -0.0   0.0 1.0 0.0 1.0   
+              -1.7691289 -0.0028929997 4.011509   1.957144 60.807423 -7.6662483   255 255 255 255   0.86200184 1.0   -0.00402182 0.9921542 0.12495545 1.0   
+              -1.7446672 -0.003077691 3.9969409   0.46295246 61.318264 -9.9900135e-06   255 255 255 255   0.0 -0.0   0.0 1.0 0.0 1.0   
+              -1.7691289 -0.002893002 3.9969778   0.46294746 61.318268 -9.990014e-06   255 255 255 255   0.0 1.0   0.0 1.0 0.0 1.0   
+              -1.7446672 0.0030786884 3.9969409   0.015856156 -32.489475 -52.005558   255 255 255 255   1.0 1.0   1.0 -0.00021926305 -0.00013698032 1.0   
+              -1.7691289 0.006190562 3.9949892   0.074221 -42.379696 -44.31817   255 255 255 255   1.0 -0.0   0.9999993 -0.0008747478 -0.00083648606 1.0   
+              -1.7446672 0.006190564 3.9949892   3.7354569e-06 -42.728645 -43.9819   255 255 255 255   0.0 -0.0   1.0 0.0 0.0 1.0   
+              -1.7446672 -0.003077691 3.9969409   0.015850475 32.48946 -52.005566   255 255 255 255   1.0 -0.0   1.0 0.0 0.0 -1.0   
+              -1.7691289 -0.0061895694 3.9949892   0.0742136 42.37968 -44.318184   255 255 255 255   1.0 -0.0   1.0 0.0 0.0 -1.0   
+              -1.7691289 -0.002893002 3.9969778   0.16008353 31.667116 -52.510117   255 255 255 255   0.0 -0.0   1.0 0.0 0.0 -1.0   
+              -1.7446672 -0.008753577 3.988799   -5.360766e-06 61.320015 0.0012610154   255 255 255 255   0.25 0.27219677   0.0 -0.99999994 2.072336e-05 -1.0   
+              -1.7691289 -0.008087216 3.985449   -4.952694e-06 56.652214 23.466383   255 255 255 255   0.3125 0.77219677   0.0 -0.9238779 0.38268727 -1.0   
+              -1.7691289 -0.008753579 3.988799   -5.360766e-06 61.320015 0.00020411986   255 255 255 255   0.25 0.77219677   0.0 -0.99999994 3.4944082e-06 -1.0   
+              -1.7446672 -0.008087214 3.985449   -4.952631e-06 56.651493 23.468117   255 255 255 255   0.3125 0.27219677   0.0 -0.9238662 0.38271558 -1.0   
+              -1.7691289 -0.0061895717 3.982609   -3.790706e-06 43.36062 43.35897   255 255 255 255   0.375 0.77219677   0.0 -0.7071201 0.70709354 -1.0   
+              -1.7446672 0.006190562 3.982609   3.7907173e-06 -43.360752 43.35885   255 255 255 255   0.625 0.27219677   0.0 0.70712245 0.7070912 -1.0   
+              -1.7691289 0.008088205 3.985449   4.952627e-06 -56.651455 23.468222   255 255 255 255   0.6875 0.77219677   0.0 0.9238656 0.38271698 -1.0   
+              -1.7691289 0.00619056 3.982609   3.790519e-06 -43.358486 43.361115   255 255 255 255   0.625 0.77219677   0.0 0.70708543 0.7071281 -1.0   
+              -1.7446672 0.008088207 3.985449   4.9526957e-06 -56.652237 23.466333   255 255 255 255   0.6875 0.27219677   0.0 0.9238784 0.38268623 -1.0   
+              -1.7691289 0.00875457 3.988799   5.360766e-06 -61.320015 0.0012649832   255 255 255 255   0.75 0.77219677   0.0 0.99999994 2.0465075e-05 -1.0   
+              -1.7446672 -0.008087212 3.9921494   -4.952763e-06 56.653008 -23.464468   255 255 255 255   0.1875 0.27219677   0.0 -0.923891 -0.3826558 -1.0   
+              -1.7691289 -0.008087215 3.9921494   -4.9526893e-06 56.65216 -23.466505   255 255 255 255   0.1875 0.77219677   0.0 -0.9238771 -0.38268897 -1.0   
+              -1.7446672 -0.0061895675 3.9949892   -3.7354555e-06 42.72863 -43.981915   255 255 255 255   0.125 0.27219677   0.0 -0.6968139 -0.7172521 -1.0   
+              -1.7691289 -0.0061895694 3.9949892   0.0742136 42.37968 -44.318184   255 255 255 255   0.125 0.77219677   0.00026900074 -0.69112396 -0.7227361 -1.0   
+              -1.7446672 -0.0061895694 3.982609   -3.7905306e-06 43.358616 43.360973   255 255 255 255   0.375 0.27219677   0.0 -0.70708746 0.70712614 -1.0   
+              -1.7691289 -0.0033495456 3.9807115   -0.00010769586 23.472776 56.649563   255 255 255 255   0.4375 0.77219677   -1.8419956e-10 -0.38279128 0.92383486 -1.0   
+              -1.7446672 0.008754572 3.988799   5.360766e-06 -61.320015 0.00020749346   255 255 255 255   0.75 0.27219677   0.0 0.99999994 3.2209327e-06 -1.0   
+              -1.7691289 0.008088206 3.9921494   4.9527607e-06 -56.652977 -23.464518   255 255 255 255   0.8125 0.77219677   0.0 0.92389053 -0.38265696 -1.0   
+              -1.7446672 0.008088209 3.9921494   4.9526934e-06 -56.652206 -23.466404   255 255 255 255   0.8125 0.27219677   0.0 0.9238778 -0.38268763 -1.0   
+              -1.7691289 0.006190562 3.9949892   0.074221 -42.379696 -44.31817   255 255 255 255   0.875 0.77219677   -0.00026900068 0.691124 -0.7227361 -1.0   
+              -1.7446672 -0.00079452054 4.0186157   11.722692 7.786616 -59.68326   255 255 255 255   0.62913805 1.0   -0.00022061719 -0.1293268 -0.991602 1.0   
+              -1.7691289 0.0006108306 4.013835   11.721169 -7.830784 -59.677776   255 255 255 255   0.39453402 -0.0   0.0246117 0.12530932 -0.9918124 1.0   
+              -1.7446672 0.000795525 4.0186157   11.72206 -7.7853937 -59.683548   255 255 255 255   0.37086198 1.0   0.024468554 0.12458308 -0.9919074 1.0   
+              -1.7446672 0.0030786914 4.016289   1.9545993 -60.809288 -7.65202   255 255 255 255   0.8926716 1.0   0.00049821235 0.9921732 -0.124867655 1.0   
+              -1.7691289 0.002602347 4.012646   6.252315 -53.146683 -29.941328   255 255 255 255   1.0395125 -0.0   -0.0027514405 0.8713859 -0.4905905 1.0   
+              -1.7446672 -0.0019110845 4.018318   10.428331 30.467134 -52.183792   255 255 255 255   0.7885348 1.0   -0.002899836 -0.50376505 -0.8638359 1.0   
+              -1.7691289 -0.0006098321 4.013835   11.721209 7.831384 -59.67769   255 255 255 255   0.605466 -0.0   0.00018402617 -0.13014816 -0.99149454 1.0   
+              -1.7446672 0.002787041 4.017427   6.2386155 -53.189827 -29.86748   255 255 255 255   1.0520684 1.0   0.0030892082 0.8717791 -0.48988926 1.0   
+              -1.7691289 0.0017273944 4.013538   10.426976 -30.473524 -52.18033   255 255 255 255   1.2170233 -0.0   -0.0023575535 0.5046529 -0.86331916 1.0   
+              -1.7446672 0.0019120887 4.018318   10.4281 -30.469484 -52.18247   255 255 255 255   1.2114651 1.0   0.0029077246 0.5038022 -0.8638142 1.0   
+              -1.7691289 0.0006108306 4.013835   11.721169 -7.830784 -59.677776   255 255 255 255   1.394534 -0.0   -0.024444936 0.13478188 -0.99057376 1.0   
+              -1.7446672 -0.002786037 4.017427   6.238439 53.18982 -29.86753   255 255 255 255   0.94793165 1.0   -0.0030890834 -0.871779 -0.48988968 1.0   
+              -1.7691289 -0.001726396 4.013538   10.42721 30.471176 -52.181652   255 255 255 255   0.78297675 -0.0   0.0023656 -0.5046158 -0.8633408 1.0   
+              -1.7446672 -0.003077688 4.016289   1.9545797 60.80929 -7.652042   255 255 255 255   1.1073284 1.0   -0.0040282006 -0.9921514 -0.124978386 1.0   
+              -1.7691289 -0.0026013486 4.012646   6.2523046 53.14667 -29.941347   255 255 255 255   0.9604874 -0.0   0.0027514414 -0.8713859 -0.4905905 1.0   
+              -1.7446672 0.4076977 4.0765176   -5.360766e-06 61.320015 -9.990299e-06   255 255 255 255   0.0 -0.0   1.0 0.0 0.0 -1.0   
+              -1.7691289 -0.38323507 2.8778877   -5.360766e-06 61.320015 -9.990299e-06   255 255 255 255   0.9699999 0.9799999   1.0 0.0 0.0 -1.0   
+              -1.7737489 -0.4076969 2.853426   -7.8051376 -1.8643716e-05 -60.821247   255 255 255 255   1.0 1.0   -1.6714658e-08 1.3024837e-07 -0.99999994 -1.0   
+              -1.7737489 0.4076975 2.853426   -7.804791 -2.5456757e-06 -60.821297   255 255 255 255   0.0 1.0   1.6700136e-08 -1.3014107e-07 -1.0 -1.0   
+              -1.7446672 0.4076975 2.853426   8.733797e-13 -9.990299e-06 -61.320015   255 255 255 255   0.0 -0.0   0.0 0.0 -0.99999994 -1.0   
+              -1.7737489 -0.4076969 2.853426   -7.8051376 -1.8643716e-05 -60.821247   255 255 255 255   1.0 1.0   -1.671466e-08 1.3024838e-07 -1.0 1.0   
+              -1.7691289 4.9376956e-07 3.980045   -8.7337966e-13 9.990298e-06 61.32001   255 255 255 255   0.5 0.77219677   0.0 0.0 1.0 -1.0   
+              -1.7446672 -0.0033495435 3.9807115   -2.048741e-06 23.434864 56.665253   255 255 255 255   0.4375 0.27219677   0.0 -0.382173 0.9240908 -1.0   
+              -1.7691289 0.0028939925 3.9806206   -0.00011127189 -11.961403 60.142075   255 255 255 255   0.5539825 0.77219677   -7.983054e-11 0.1950654 0.98079026 -1.0   
+              -1.7446672 -0.003077688 4.016289   1.9545797 60.80929 -7.652042   255 255 255 255   0.8926716 -0.0   -0.00400899 0.9921834 0.12472407 1.0   
+              -1.7691289 0.0028939953 3.9969778   0.16008908 -31.667131 -52.51011   255 255 255 255   1.0 1.0   1.0 0.0 0.0 -1.0   
+              -1.7446672 -0.0061895675 3.9949892   -3.7354555e-06 42.72863 -43.981915   255 255 255 255   1.0 1.0   1.0 0.0 0.0 -1.0   
+              -1.7446672 0.006190564 3.9949892   3.7354569e-06 -42.728645 -43.9819   255 255 255 255   0.875 0.27219677   0.0 0.69681376 -0.717252 -1.0   
+              -1.7446672 0.000795525 4.0186157   11.72206 -7.7853937 -59.683548   255 255 255 255   1.370862 1.0   -0.024591664 0.13405703 -0.9906684 1.0   
+              -1.7691289 -0.0028929997 4.011509   1.957144 60.807423 -7.6662483   255 255 255 255   1.1379981 -0.0   -0.004027563 -0.992122 -0.1252105 1.0
+            </Data>
+          </VertexBuffer>
+          <IndexBuffer>
+            <Data>
+              0 1 2 3 4 5 6 3 5 7 8 9 10 0 2 11 12 13 14 15 16 11 13 17 
+              18 19 20 4 21 5 22 23 24 25 26 27 28 29 30 31 28 30 32 31 30 33 34 35 
+              12 36 13 37 38 27 26 37 27 36 10 2 13 36 2 39 32 30 40 41 42 43 44 45 
+              43 45 46 43 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 60 62 
+              64 63 62 65 66 59 65 67 66 68 69 70 58 65 59 71 72 73 74 75 76 77 78 73 
+              79 57 59 80 81 66 67 80 66 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 
+              97 98 99 100 101 102 103 71 73 78 103 73 104 105 106 104 107 108 108 109 110 110 111 112 
+              113 114 115 116 117 118 118 119 120 120 121 113 112 122 123 124 125 126 127 128 124 127 129 130 
+              123 129 131 132 133 116 134 135 136 136 137 138 138 139 140 140 141 132 142 143 144 145 146 147 
+              148 149 150 123 116 112 147 140 131 131 132 123 151 152 153 118 152 110 118 112 116 154 155 156 
+              157 158 159 141 111 133 109 133 111 109 160 117 161 162 163 163 129 139 139 122 141 164 160 165 
+              166 167 168 169 170 171 172 169 171 173 172 171 174 175 176 177 178 179 180 181 182 183 184 185 
+              186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 199 203 204 205 206 207 204 
+              208 200 209 210 209 211 212 213 202 184 205 185 214 215 207 216 217 215 218 219 220 221 222 187 
+              223 224 218 225 226 222 227 228 226 229 230 223 231 232 229 104 233 105 104 106 107 108 107 109 
+              110 109 111 113 121 114 116 133 117 118 117 119 120 119 121 112 111 122 124 128 125 127 130 128 
+              127 131 129 123 122 129 132 141 133 134 234 135 136 135 137 138 137 139 140 139 141 142 145 143 
+              145 142 146 148 151 149 123 132 116 147 146 140 131 140 132 151 148 152 118 153 152 118 110 112 
+              154 161 155 235 236 237 141 122 111 109 117 133 109 165 160 161 154 162 163 162 129 139 129 122 
+              164 238 160 239 182 181 182 213 180 213 240 180 185 241 183 241 239 181 183 241 181 186 221 187 
+              189 242 190 192 243 193 195 244 196 198 201 199 201 212 202 203 206 204 206 214 207 208 198 200 
+              210 208 209 212 240 213 184 203 205 214 216 215 216 245 217 218 224 219 221 225 222 223 230 224 
+              225 227 226 227 246 228 229 232 230 231 247 232
+            </Data>
+          </IndexBuffer>
+        </Item>
+      </Geometries>
+    </Item>
+  </DrawableModelsHigh>
+  <Bounds type="Composite">
+    <BoxMin x="-1.7783152" y="-0.40769666" z="2.853426" />
+    <BoxMax x="-1.744667" y="0.4076981" z="4.0765176" />
+    <BoxCenter x="-1.7614911" y="7.1525574e-07" z="3.4649718" />
+    <SphereCenter x="-1.7614911" y="7.1525574e-07" z="3.4649718" />
+    <SphereRadius value="0.7351792" />
+    <Margin value="0" />
+    <Volume value="0" />
+    <Inertia x="0.0" y="0.0" z="0.0" />
+    <MaterialIndex value="0" />
+    <MaterialColourIndex value="0" />
+    <ProceduralID value="0" />
+    <RoomID value="0" />
+    <PedDensity value="0" />
+    <UnkFlags value="0" />
+    <PolyFlags value="0" />
+    <UnkType value="1" />
+    <Children>
+      <Item type="GeometryBVH">
+        <BoxMin x="-1.7783152" y="-0.40769666" z="2.853426" />
+        <BoxMax x="-1.744667" y="0.4076981" z="4.0765176" />
+        <BoxCenter x="-1.7614911" y="7.1525574e-07" z="3.4649718" />
+        <SphereCenter x="-1.7614911" y="7.1525574e-07" z="3.4649718" />
+        <SphereRadius value="0.7351792" />
+        <Margin value="0" />
+        <Volume value="0" />
+        <Inertia x="0.0" y="0.0" z="0.0" />
+        <MaterialIndex value="0" />
+        <MaterialColourIndex value="0" />
+        <ProceduralID value="0" />
+        <RoomID value="0" />
+        <PedDensity value="0" />
+        <UnkFlags value="0" />
+        <PolyFlags value="0" />
+        <UnkType value="1" />
+        <CompositeTransform>
+          1.0 0.0 0.0 0.0
+          0.0 1.0 0.0 0.0
+          0.0 0.0 1.0 0.0
+          0.0 0.0 0.0 1.0
+        </CompositeTransform>
+        <CompositeFlags1>MAP_ANIMAL, MAP_COVER, MAP_DYNAMIC, MAP_VEHICLE, MAP_WEAPON</CompositeFlags1>
+        <CompositeFlags2>ANIMAL, ANIMAL_RAGDOLL, EXPLOSION, FORKLIFT_FORKS, GLASS, OBJECT, PED, PLANT, PROJECTILE, RAGDOLL, TEST_AI, TEST_CAMERA, TEST_SCRIPT, TEST_VEHICLE_WHEEL, TEST_WEAPON, VEHICLE_BVH, VEHICLE_NOT_BVH</CompositeFlags2>
+        <GeometryCenter x="-1.7614911" y="7.1525574e-07" z="3.4649718" />
+        <Materials>
+          <Item>
+            <Type value="69" />
+            <ProceduralID value="0" />
+            <RoomID value="0" />
+            <PedDensity value="0" />
+            <Flags>FLAG_NOT_CLIMBABLE</Flags>
+            <MaterialColourIndex value="0" />
+            <Unk value="0" />
+          </Item>
+        </Materials>
+        <Vertices>
+          -0.007637858856469393, 0.003350180108100176, 0.5157396793365479
+          -0.007637916132807732, 0.38323554396629333, 0.5870839357376099
+          -0.007637916132807732, 0.38323521614074707, -0.587084174156189
+          -0.0076378569938242435, -0.008753931149840355, 0.523827314376831
+          -0.0076378569938242435, -0.00808756798505783, 0.520477294921875
+          -0.007637800648808479, -0.38323524594306946, 0.587084174156189
+          -0.0076378569938242435, -0.008087566122412682, 0.5271775722503662
+          -0.0076378583908081055, 0.0006104814237914979, 0.5488631725311279
+          -0.0076378583908081055, -0.0006101813050918281, 0.5488631725311279
+          -0.007637858856469393, 0.002893639262765646, 0.5156488418579102
+          -0.007637857925146818, -0.003349898848682642, 0.5157396793365479
+          -0.007637857925146818, -0.002893358003348112, 0.5156488418579102
+          -0.007637800648808479, -0.3832355737686157, -0.5870839357376099
+          -0.00763785932213068, 0.006190206855535507, 0.5176372528076172
+          -0.007637857459485531, -0.006189924664795399, 0.5176372528076172
+          -0.007637858856469393, 0.002893648110330105, 0.5465371608734131
+          -0.007637858856469393, 0.002601997461169958, 0.5476744174957275
+          -0.007637859787791967, 0.008087854832410812, 0.5271775722503662
+          -0.007637859787791967, 0.008754217997193336, 0.523827314376831
+          -0.007637859787791967, 0.008087852969765663, 0.520477294921875
+          -0.00763785932213068, 0.006190210580825806, 0.5300173759460449
+          -0.007637858856469393, 0.002893643919378519, 0.532006025314331
+          -0.0076378583908081055, 1.4050323215997196e-07, 0.515073299407959
+          -0.007637858856469393, 0.0017270451644435525, 0.5485661029815674
+          -0.007637857925146818, -0.0028933491557836533, 0.5465371608734131
+          -0.007637857925146818, -0.002893353346735239, 0.532006025314331
+          -0.007637857459485531, -0.0061899209395051, 0.5300173759460449
+          -0.007637857925146818, -0.0026016980409622192, 0.5476744174957275
+          -0.007637857925146818, -0.0017267452785745263, 0.5485661029815674
+          0.016823887825012207, 0.0033501838333904743, 0.5157396793365479
+          0.016823887825012207, 0.0030783340334892273, 0.5156855583190918
+          0.016823826357722282, 0.40769702196121216, -0.6115459203720093
+          0.016823887825012207, -0.0007948676939122379, 0.5536439418792725
+          0.016823887825012207, 0.0007951778243295848, 0.5536439418792725
+          0.01682394929230213, -0.40769702196121216, 0.6115459203720093
+          0.016823887825012207, -0.001911431667394936, 0.5533463954925537
+          0.016823887825012207, -0.0027863841969519854, 0.5524551868438721
+          0.016823887825012207, 1.441968606741284e-07, 0.515073299407959
+          0.01682394929230213, -0.4076973795890808, -0.6115456819534302
+          0.016823887825012207, -0.0030780453234910965, 0.5156855583190918
+          0.016823826357722282, 0.4076973795890808, 0.6115456819534302
+          0.016823889687657356, -0.008087563328444958, 0.5271775722503662
+          0.016823887825012207, -0.0030780353117734194, 0.5513174533843994
+          0.016823889687657356, -0.006189917214214802, 0.5300173759460449
+          0.016823889687657356, -0.0061899209395051, 0.5176372528076172
+          0.016823889687657356, -0.008087565191090107, 0.520477294921875
+          0.016823887825012207, -0.0033498951233923435, 0.5157396793365479
+          0.016823887825012207, 0.0019117415649816394, 0.5533463954925537
+          0.016823887825012207, 0.002786693861708045, 0.5524551868438721
+          0.016823885962367058, 0.006190214306116104, 0.5300173759460449
+          0.016823887825012207, 0.0030783440452069044, 0.5513174533843994
+          0.016823887825012207, 0.0030783386901021004, 0.5319690704345703
+          0.016823885962367058, 0.008087857626378536, 0.5271775722503662
+          0.016823887825012207, -0.0030780406668782234, 0.5319690704345703
+          0.016823889687657356, -0.008753928355872631, 0.523827314376831
+          -0.012257875874638557, 0.40769702196121216, -0.6115459203720093
+          -0.012257875874638557, 0.4076973795890808, 0.6115456819534302
+          -0.014491023495793343, 0.4071141183376312, 0.6109625101089478
+          -0.014491023495793343, 0.4071137607097626, -0.6109627485275269
+          -0.01624077744781971, 0.4053642451763153, 0.6092125177383423
+          -0.01624077744781971, 0.40536388754844666, -0.6092127561569214
+          -0.016824068501591682, 0.4031311869621277, 0.606979489326477
+          -0.016824068501591682, 0.40313082933425903, -0.606979489326477
+          -0.012257752940058708, -0.40769702196121216, 0.6115459203720093
+          -0.012257752940058708, -0.4076973795890808, -0.6115456819534302
+          -0.01624065451323986, -0.40536388754844666, 0.6092127561569214
+          -0.016823945567011833, -0.40313082933425903, 0.6069797277450562
+          -0.016823945567011833, -0.4031311869621277, -0.606979250907898
+          -0.01624065451323986, -0.4053642451763153, -0.6092125177383423
+          -0.014490900561213493, -0.4071137607097626, 0.6109627485275269
+          -0.014490900561213493, -0.4071141183376312, -0.6109625101089478
+          -0.016824064776301384, 0.38780173659324646, 0.591650128364563
+          -0.016824064776301384, 0.3878014087677002, -0.5916503667831421
+          -0.012257872149348259, 0.38323554396629333, 0.5870839357376099
+          -0.012257872149348259, 0.38323521614074707, -0.587084174156189
+          -0.014491019770503044, 0.3838188052177429, 0.5876671075820923
+          -0.014491019770503044, 0.38381847739219666, -0.5876675844192505
+          -0.01624077372252941, 0.38556867837905884, 0.5894170999526978
+          -0.01624077372252941, 0.3855683505535126, -0.5894173383712769
+          -0.01682394929230213, -0.3878014385700226, 0.5916503667831421
+          -0.01682394929230213, -0.38780176639556885, -0.591650128364563
+          -0.012257756665349007, -0.38323524594306946, 0.587084174156189
+          -0.012257756665349007, -0.3832355737686157, -0.5870839357376099
+          -0.014490904286503792, -0.38381850719451904, 0.5876673460006714
+          -0.014490904286503792, -0.3838188350200653, -0.5876673460006714
+          -0.01624065823853016, -0.38556838035583496, 0.5894173383712769
+          -0.01624065823853016, -0.3855687081813812, -0.5894170999526978
+          0.016823885962367058, 0.006190210580825806, 0.5176372528076172
+          0.016823885962367058, 0.008087855763733387, 0.520477294921875
+          0.016823885962367058, 0.00875422079116106, 0.523827314376831
+        </Vertices>
+        <VertexColours>
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+          255, 255, 255, 255
+        </VertexColours>
+        <Polygons>
+          <Triangle m="0" v1="0" v2="1" v3="2" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="3" v2="4" v3="5" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="6" v2="3" v3="5" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="7" v2="8" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="9" v2="0" v3="2" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="10" v2="11" v3="12" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="0" v2="13" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="10" v2="12" v3="5" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="14" v2="10" v3="5" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="4" v2="14" v3="5" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="8" v2="5" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="15" v2="16" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="17" v2="15" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="18" v2="17" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="19" v2="18" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="20" v2="21" v3="15" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="11" v2="22" v3="12" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="23" v2="7" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="16" v2="23" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="22" v2="9" v3="2" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="12" v2="22" v3="2" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="13" v2="19" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="17" v2="20" v3="15" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="24" v2="25" v3="26" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="24" v2="26" v3="6" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="24" v2="6" v3="5" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="27" v2="24" v3="5" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="28" v2="27" v3="5" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="8" v2="28" v3="5" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="29" v2="30" v3="31" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="32" v2="33" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="35" v2="32" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="36" v2="35" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="37" v2="38" v3="31" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="37" v2="39" v3="38" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="33" v2="40" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="30" v2="37" v3="31" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="41" v2="42" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="41" v2="43" v3="42" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="44" v2="45" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="40" v2="29" v3="31" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="46" v2="34" v3="38" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="39" v2="46" v3="38" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="47" v2="48" v3="40" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="33" v2="47" v3="40" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="49" v2="50" v3="51" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="49" v2="52" v3="50" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="46" v2="44" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="42" v2="36" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="43" v2="53" v3="42" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="54" v2="41" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="45" v2="54" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="55" v2="56" v3="40" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="55" v2="40" v3="31" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="57" v2="56" v3="55" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="57" v2="55" v3="58" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="59" v2="57" v3="58" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="59" v2="58" v3="60" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="61" v2="59" v3="60" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="61" v2="60" v3="62" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="34" v2="63" v3="64" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="34" v2="64" v3="38" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="65" v2="66" v3="67" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="65" v2="67" v3="68" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="69" v2="65" v3="68" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="69" v2="68" v3="70" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="63" v2="69" v3="70" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="63" v2="70" v3="64" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="71" v2="61" v3="62" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="71" v2="62" v3="72" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="1" v2="73" v3="74" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="1" v2="74" v3="2" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="73" v2="75" v3="76" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="73" v2="76" v3="74" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="75" v2="77" v3="78" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="75" v2="78" v3="76" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="77" v2="71" v3="72" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="77" v2="72" v3="78" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="66" v2="79" v3="80" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="66" v2="80" v3="67" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="81" v2="5" v3="12" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="81" v2="12" v3="82" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="83" v2="81" v3="82" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="83" v2="82" v3="84" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="85" v2="83" v3="84" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="85" v2="84" v3="86" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="79" v2="85" v3="86" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="79" v2="86" v3="80" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="5" v2="81" v3="73" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="5" v2="73" v3="1" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="75" v2="73" v3="81" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="75" v2="81" v3="83" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="40" v2="56" v3="63" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="40" v2="63" v3="34" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="61" v2="71" v3="79" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="61" v2="79" v3="66" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="77" v2="75" v3="83" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="77" v2="83" v3="85" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="71" v2="77" v3="85" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="71" v2="85" v3="79" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="69" v2="63" v3="56" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="69" v2="56" v3="57" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="65" v2="69" v3="57" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="65" v2="57" v3="59" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="66" v2="65" v3="59" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="66" v2="59" v3="61" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="2" v2="74" v3="82" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="2" v2="82" v3="12" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="38" v2="64" v3="55" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="38" v2="55" v3="31" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="67" v2="80" v3="72" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="67" v2="72" v3="62" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="62" v2="60" v3="68" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="62" v2="68" v3="67" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="60" v2="58" v3="70" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="60" v2="70" v3="68" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="84" v2="82" v3="74" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="84" v2="74" v3="76" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="86" v2="84" v3="76" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="86" v2="76" v3="78" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="80" v2="86" v3="78" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="80" v2="78" v3="72" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="58" v2="55" v3="64" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="58" v2="64" v3="70" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="87" v2="29" v3="40" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="88" v2="87" v3="40" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="89" v2="88" v3="40" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="52" v2="89" v3="40" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="50" v2="52" v3="40" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="48" v2="50" v3="40" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="22" v2="11" v3="10" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="10" v2="46" v3="39" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="39" v2="37" v3="22" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="10" v2="39" v3="22" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="0" v2="9" v3="22" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="22" v2="37" v3="30" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="30" v2="29" v3="0" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="22" v2="30" v3="0" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="51" v2="50" v3="15" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="51" v2="15" v3="21" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="25" v2="24" v3="42" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="25" v2="42" v3="53" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="51" v2="21" v3="20" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="51" v2="20" v3="49" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="53" v2="43" v3="26" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="53" v2="26" v3="25" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="3" v2="54" v3="45" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="3" v2="45" v3="4" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="4" v2="45" v3="44" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="4" v2="44" v3="14" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="13" v2="87" v3="88" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="13" v2="88" v3="19" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="19" v2="88" v3="89" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="19" v2="89" v3="18" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="6" v2="41" v3="54" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="6" v2="54" v3="3" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="26" v2="43" v3="41" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="26" v2="41" v3="6" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="14" v2="44" v3="46" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="14" v2="46" v3="10" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="0" v2="29" v3="87" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="0" v2="87" v3="13" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="18" v2="89" v3="52" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="18" v2="52" v3="17" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="17" v2="52" v3="49" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="17" v2="49" v3="20" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="33" v2="32" v3="8" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="33" v2="8" v3="7" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="50" v2="48" v3="16" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="50" v2="16" v3="15" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="32" v2="35" v3="28" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="32" v2="28" v3="8" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="48" v2="47" v3="23" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="48" v2="23" v3="16" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="47" v2="33" v3="7" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="47" v2="7" v3="23" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="35" v2="36" v3="27" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="35" v2="27" v3="28" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="36" v2="42" v3="24" f1="0" f2="0" f3="0" />
+          <Triangle m="0" v1="36" v2="24" v3="27" f1="0" f2="0" f3="0" />
+        </Polygons>
+      </Item>
+    </Children>
+  </Bounds>
+</Drawable>

@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.4678826" y="-2.0684278" z="4.922692" />
+      <bbMax x="2.9234495" y="2.0726163" z="6.1064897" />
+      <bsCentre x="0.22778344" y="0.0020942688" z="5.5145907" />
+      <bsRadius value="3.4502206" />
+      <hdTextureDist value="40" />
+      <name>ceiling</name>
+      <textureDictionary>ceiling</textureDictionary>
+      <physicsDictionary>ceiling</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>ceiling</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.132495" y="-0.053337097" z="-0.6659788" />
+      <bbMax x="-1.619368" y="0.026229968" z="0.04251935" />
+      <bsCentre x="-1.8759315" y="-0.013553564" z="-0.31172973" />
+      <bsRadius value="0.43920383" />
+      <hdTextureDist value="40" />
+      <name>towel</name>
+      <textureDictionary>towel</textureDictionary>
+      <physicsDictionary>towel</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>towel</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.15071735" y="-1.081293" z="-0.69288886" />
+      <bbMax x="4.669495" y="1.0837537" z="0.7020058" />
+      <bsCentre x="2.259389" y="0.0012303591" z="0.004558474" />
+      <bsRadius value="2.7325633" />
+      <hdTextureDist value="40" />
+      <name>counterframe</name>
+      <textureDictionary>counterframe</textureDictionary>
+      <physicsDictionary>counterframe</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>counterframe</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-1.0029501" y="-1.0135984" z="-0.66815406" />
+      <bbMax x="3.6245987" y="1.0177981" z="0.7620303" />
+      <bsCentre x="1.3108244" y="0.002099812" z="0.04693812" />
+      <bsRadius value="2.6261287" />
+      <hdTextureDist value="40" />
+      <name>counter</name>
+      <textureDictionary>counter</textureDictionary>
+      <physicsDictionary>counter</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>counter</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.99534667" y="-1.111301" z="-0.1" />
+      <bbMax x="3.8632183" y="1.1113012" z="0.10087281" />
+      <bsCentre x="1.4339359" y="1.1920929e-07" z="0.00043640286" />
+      <bsRadius value="2.6732922" />
+      <hdTextureDist value="40" />
+      <name>countertop</name>
+      <textureDictionary>countertop</textureDictionary>
+      <physicsDictionary>countertop</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>countertop</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.32192487" y="-1.150518" z="-0.5256176" />
+      <bbMax x="1.8004854" y="0.33401734" z="0.06832897" />
+      <bsCentre x="0.7392802" y="-0.4082503" z="-0.22864431" />
+      <bsRadius value="1.32865" />
+      <hdTextureDist value="40" />
+      <name>lids</name>
+      <textureDictionary>lids</textureDictionary>
+      <physicsDictionary>lids</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>Lids</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.571877" y="-2.0773773" z="3.5872223" />
+      <bbMax x="3.0259585" y="2.0645342" z="6.1215143" />
+      <bsCentre x="0.22704077" y="-0.006421566" z="4.854368" />
+      <bsRadius value="3.7051933" />
+      <hdTextureDist value="40" />
+      <name>ceilingholder</name>
+      <textureDictionary>ceilingholder</textureDictionary>
+      <physicsDictionary>ceilingholder</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>ceilingholder</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-3.4402971" y="-2.9983675" z="-2.2443202" />
+      <bbMax x="4.669495" y="2.5093064" z="6.1215143" />
+      <bsCentre x="0.614599" y="-0.24453056" z="1.9385971" />
+      <bsRadius value="6.4438033" />
+      <hdTextureDist value="40" />
+      <name>card</name>
+      <textureDictionary>card</textureDictionary>
+      <physicsDictionary>card</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>card</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.5134938" y="0.45837292" z="-0.19691716" />
+      <bbMax x="3.6661777" y="2.0456026" z="0.52165" />
+      <bsCentre x="1.576342" y="1.2519877" z="0.16236642" />
+      <bsRadius value="2.2641382" />
+      <hdTextureDist value="40" />
+      <name>holders</name>
+      <textureDictionary>holders</textureDictionary>
+      <physicsDictionary>holders</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>holders</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="0.05216132" y="0.6415563" z="3.2969434" />
+      <bbMax x="0.20809337" y="1.0669739" z="3.9474688" />
+      <bsCentre x="0.13012734" y="0.8542651" z="3.6222062" />
+      <bsRadius value="0.396383" />
+      <hdTextureDist value="40" />
+      <name>cones2</name>
+      <textureDictionary>cones2</textureDictionary>
+      <physicsDictionary>cones2</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>cones2</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="0.06276935" y="1.106271" z="4.408844" />
+      <bbMax x="0.23867382" y="1.2821757" z="4.7173166" />
+      <bsCentre x="0.15072158" y="1.1942234" z="4.5630803" />
+      <bsRadius value="0.19814146" />
+      <hdTextureDist value="40" />
+      <name>cones3</name>
+      <textureDictionary>cones3</textureDictionary>
+      <physicsDictionary>cones3</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>cones3</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="0.06992826" y="-0.24622251" z="0.013855194" />
+      <bbMax x="0.24305998" y="-0.059222706" z="0.16194099" />
+      <bsCentre x="0.15649411" y="-0.15272261" z="0.08789809" />
+      <bsRadius value="0.14737107" />
+      <hdTextureDist value="40" />
+      <name>icecream</name>
+      <textureDictionary>icecream</textureDictionary>
+      <physicsDictionary>icecream</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>icecream</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.15237878" y="-0.14935468" z="-2.2443202" />
+      <bbMax x="4.596844" y="0.1506453" z="0.08882892" />
+      <bsCentre x="2.2222328" y="0.0006453097" z="-1.0777457" />
+      <bsRadius value="2.6499388" />
+      <hdTextureDist value="40" />
+      <name>ring</name>
+      <textureDictionary>ring</textureDictionary>
+      <physicsDictionary>ring</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>ring</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.6885152" y="-0.916808" z="2.2467713" />
+      <bbMax x="2.2727711" y="1.445324" z="2.6353033" />
+      <bsCentre x="-0.20787203" y="0.26425797" z="2.4410372" />
+      <bsRadius value="2.7543144" />
+      <hdTextureDist value="40" />
+      <name>railing</name>
+      <textureDictionary>railing</textureDictionary>
+      <physicsDictionary>railing</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>railing</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.55395293" y="-0.45256403" z="-0.16791315" />
+      <bbMax x="0.233003" y="0.9597191" z="0.25672004" />
+      <bsCentre x="-0.16047496" y="0.25357753" z="0.04440344" />
+      <bsRadius value="0.8357866" />
+      <hdTextureDist value="40" />
+      <name>cups</name>
+      <textureDictionary>cups</textureDictionary>
+      <physicsDictionary>cups</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>cups</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-3.4402971" y="-1.9864088" z="-1.0077437" />
+      <bbMax x="0.24705248" y="0.617953" z="0.88505685" />
+      <bsCentre x="-1.5966223" y="-0.68422794" z="-0.06134343" />
+      <bsRadius value="2.447547" />
+      <hdTextureDist value="40" />
+      <name>spoons</name>
+      <textureDictionary>spoons</textureDictionary>
+      <physicsDictionary>spoons</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>spoons</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.09978048" y="-0.30769944" z="0.026810078" />
+      <bbMax x="0.15859511" y="0.07050463" z="0.38197502" />
+      <bsCentre x="0.029407319" y="-0.1185974" z="0.20439255" />
+      <bsRadius value="0.28980097" />
+      <hdTextureDist value="40" />
+      <name>napkins</name>
+      <textureDictionary>napkins</textureDictionary>
+      <physicsDictionary>napkins</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>napkins</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.83123744" y="-2.8185563" z="-0.83575004" />
+      <bbMax x="0.83123744" y="-0.11285594" z="0.8346496" />
+      <bsCentre x="0.0" y="-1.4657061" z="-0.0005502105" />
+      <bsRadius value="1.7940786" />
+      <hdTextureDist value="40" />
+      <name>tiresinside</name>
+      <textureDictionary>tiresinside</textureDictionary>
+      <physicsDictionary>tiresinside</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>tiresinside</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.921683" y="-0.28794903" z="-0.925737" />
+      <bbMax x="0.921683" y="2.5093064" z="0.9257" />
+      <bsCentre x="0.0" y="1.1106787" z="-1.8507242e-05" />
+      <bsRadius value="1.9137957" />
+      <hdTextureDist value="40" />
+      <name>tires</name>
+      <textureDictionary>tires</textureDictionary>
+      <physicsDictionary>tires</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>tires</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.83374166" y="-2.948053" z="-0.8190788" />
+      <bbMax x="0.80147356" y="0.019289777" z="0.82795006" />
+      <bsCentre x="-0.016134053" y="-1.4643816" z="0.0044356287" />
+      <bsRadius value="1.8835974" />
+      <hdTextureDist value="40" />
+      <name>spokes</name>
+      <textureDictionary>spokes</textureDictionary>
+      <physicsDictionary>spokes</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>spokes</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.15584882" y="-2.9983675" z="-0.16159979" />
+      <bbMax x="0.15584882" y="0.0025801407" z="0.16224901" />
+      <bsCentre x="0.0" y="-1.4978937" z="0.00032461435" />
+      <bsRadius value="1.5172113" />
+      <hdTextureDist value="40" />
+      <name>wheelconnector</name>
+      <textureDictionary>wheelconnector</textureDictionary>
+      <physicsDictionary>wheelconnector</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wheelconnector</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.098873615" y="-1.1441896" z="-0.0988738" />
+      <bbMax x="0.098873615" y="1.1441896" z="0.0988738" />
+      <bsCentre x="0.0" y="0.0" z="0.0" />
+      <bsRadius value="1.152702" />
+      <hdTextureDist value="40" />
+      <name>wheelcylinder</name>
+      <textureDictionary>wheelcylinder</textureDictionary>
+      <physicsDictionary>wheelcylinder</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>wheelcylinder</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.41582012" y="-0.08457947" z="-0.8732294" />
+      <bbMax x="1.0169517" y="0.09572544" z="0.5595424" />
+      <bsCentre x="0.30056578" y="0.005572986" z="-0.15684348" />
+      <bsRadius value="1.0171258" />
+      <hdTextureDist value="40" />
+      <name>smallwheel</name>
+      <textureDictionary>smallwheel</textureDictionary>
+      <physicsDictionary>smallwheel</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>smallwheel</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="0.02372897" y="-0.04170947" z="-0.0009823162" />
+      <bbMax x="0.1132699" y="0.057408355" z="0.11402176" />
+      <bsCentre x="0.06849944" y="0.007849442" z="0.056519724" />
+      <bsRadius value="0.088130385" />
+      <hdTextureDist value="40" />
+      <name>cherry</name>
+      <textureDictionary>cherry</textureDictionary>
+      <physicsDictionary>cherry</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>cherry</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.36704743" y="0.34213144" z="3.521883" />
+      <bbMax x="-0.053207275" y="0.7715791" z="3.7818706" />
+      <bsCentre x="-0.21012735" y="0.55685526" z="3.651877" />
+      <bsRadius value="0.29602125" />
+      <hdTextureDist value="40" />
+      <name>cones1</name>
+      <textureDictionary>cones1</textureDictionary>
+      <physicsDictionary>cones1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>cones1</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.06155534" y="-0.09324667" z="0.010674819" />
+      <bbMax x="0.073887646" y="0.052478302" z="0.12607485" />
+      <bsCentre x="0.0061661527" y="-0.020384183" z="0.068374835" />
+      <bsRadius value="0.114997536" />
+      <hdTextureDist value="40" />
+      <name>icecream1</name>
+      <textureDictionary>icecream1</textureDictionary>
+      <physicsDictionary>icecream1</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>icecream1</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.06621133" y="-0.0708173" z="0.010674817" />
+      <bbMax x="0.10368439" y="0.09106366" z="0.12607485" />
+      <bsCentre x="0.01873653" y="0.010123182" z="0.068374835" />
+      <bsRadius value="0.1307547" />
+      <hdTextureDist value="40" />
+      <name>icecream2</name>
+      <textureDictionary>icecream2</textureDictionary>
+      <physicsDictionary>icecream2</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>icecream2</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.089439474" y="-0.07420551" z="0.010674819" />
+      <bbMax x="0.09629763" y="0.11624253" z="0.12607485" />
+      <bsCentre x="0.0034290776" y="0.021018509" z="0.068374835" />
+      <bsRadius value="0.14498784" />
+      <hdTextureDist value="40" />
+      <name>icecream3</name>
+      <textureDictionary>icecream3</textureDictionary>
+      <physicsDictionary>icecream3</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>icecream3</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="2.550834" y="-0.07210108" z="0.020515125" />
+      <bbMax x="3.0542428" y="0.07947685" z="0.5239238" />
+      <bsCentre x="2.8025384" y="0.0036878847" z="0.27221948" />
+      <bsRadius value="0.36394253" />
+      <hdTextureDist value="40" />
+      <name>smallwheelrubber</name>
+      <textureDictionary>smallwheelrubber</textureDictionary>
+      <physicsDictionary>smallwheelrubber</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>smallwheelrubber</assetName>
+    </Item>
+  </archetypes>
+  <name>icecreamcart</name>
+</CMapTypes>
